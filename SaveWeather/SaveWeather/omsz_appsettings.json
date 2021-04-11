@@ -1,0 +1,9 @@
+{
+  "batchMode": "true",
+  "offLineMode": "false",
+  "inputFile": "d:\\Kuka\\idojaras.txt",
+  "outputFile": "d:\\BodenDruck\\omsza.txt",
+  "url": "http://www.met.hu/idojaras/aktualis_idojaras/mert_adatok/main.php?vn=0&v=Budapest&c=tablazat&ful=hom",
+  "logFile": "d:\\BodenDruck\\omszLog_",
+  "errorLogFile": "d:\\BodenDruck\\omszErrorlog_"
+}
